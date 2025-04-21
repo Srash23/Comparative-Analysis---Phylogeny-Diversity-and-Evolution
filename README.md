@@ -78,10 +78,14 @@ Visualizes fungal evolutionary relationships with genus/species annotations.
 ### 4. PCoA Plot of Fungal ITS Sequences
 Demonstrates clustering by genus using principal coordinate analysis of Hamming distances.
 <img width="581" alt="Screenshot 2025-04-21 at 3 40 53 PM" src="https://github.com/user-attachments/assets/49207904-befb-4d8d-b89e-363e7bc6e582" />
+
+Just a pretty 3D version 😉 because why not?
+
 <img width="393" alt="Screenshot 2025-04-21 at 3 41 18 PM" src="https://github.com/user-attachments/assets/0207f0b4-4b11-41e3-992e-7a28ab4dcae4" />
 
 ### 5. Sequence Conservation Profile
 Plots conservation across aligned ITS regions using inverse Shannon entropy.
+
 <img width="432" alt="Screenshot 2025-04-21 at 3 56 47 PM" src="https://github.com/user-attachments/assets/1551861e-f6b5-4ea4-b8eb-0d65a9142106" />
 
 ## Tech Stack
